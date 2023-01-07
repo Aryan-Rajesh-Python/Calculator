@@ -1,1 +1,1 @@
-# Calculator
+normal calcualator takes two numbers and takes an operation and performs it and again takes two numbers for calculation but in our program we will two numbers as input we will calculate required answer and asks user whether to continue with calculation if user says yes we will add the answer as first number we will ask user for the second number and calculate the required answer and so on.
