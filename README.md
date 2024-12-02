@@ -52,4 +52,4 @@ The **Advanced Calculator** is a comprehensive Python-based application designed
 2. Install the required libraries:
    ```bash
    pip install sympy matplotlib numpy
-   python advanced_calculator.py
+  python advanced_calculator.py
